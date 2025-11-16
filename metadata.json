@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TikTok Affiliate Bridge",
+  "description": "A web application that serves as a landing page for TikTok videos showcasing AliExpress products. It automatically displays the featured product and provides a direct affiliate link for purchase, with an AI-powered pitch generator.",
+  "requestFramePermissions": []
+}
